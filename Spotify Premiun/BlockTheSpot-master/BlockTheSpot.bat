@@ -18,6 +18,7 @@ Please retweet these hashtag, help me stop dictator government!
 write-host @'
 ***************** 
 Author: @Nuzair46
+Modificado por:@JaimeTR
 ***************** 
 '@
 
