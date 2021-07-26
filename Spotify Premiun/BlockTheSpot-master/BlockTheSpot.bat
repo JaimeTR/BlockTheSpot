@@ -148,7 +148,7 @@ $uipat = "$PWD\xpui.spa"
 #>
 Copy-Item -LiteralPath $patchFiles -Destination "$SpotifyDirectory"
 <#
-$ch = Read-Host -Prompt "Optional - Remove Upgrade Button. (Y/N) "
+$ch = Read-Host -Prompt "Opcional - Remover el boton de mejorar tu cuenta. (Y/N) "
 if ($ch -eq 'y'){
     move $SpotifyApps\zlink.spa $SpotifyApps\zlink.spa.bak >$null 2>&1
     Copy-Item -LiteralPath $remup -Destination "$SpotifyApps"
