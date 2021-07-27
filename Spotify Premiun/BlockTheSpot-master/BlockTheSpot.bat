@@ -181,8 +181,8 @@ Write-Host 'Done.'
 write-host @'
 ***************** 
 @mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+sigueme en mis redes sociales como instagram y twitter
+JaimeTR_  JaimeTR1309
 ***************** 
 '@
 
